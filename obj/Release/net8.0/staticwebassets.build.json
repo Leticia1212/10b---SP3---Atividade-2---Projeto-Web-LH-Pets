@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "djij2HYg9iVWwPC3hMLo3kH/fSPHlUiaw1sV4itrbgo=",
+  "Source": "Projeto_Web-Lh_Pets",
+  "BasePath": "_content/Projeto_Web-Lh_Pets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web-Lh_Pets\\wwwroot",
+      "Source": "Projeto_Web-Lh_Pets",
+      "ContentRoot": "C:\\Users\\letic\\OneDrive\\Área de Trabalho\\Projeto_Web-Lh_Pets\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\letic\\OneDrive\\Área de Trabalho\\Projeto_Web-Lh_Pets\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web-Lh_Pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\letic\\OneDrive\\Área de Trabalho\\Projeto_Web-Lh_Pets\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

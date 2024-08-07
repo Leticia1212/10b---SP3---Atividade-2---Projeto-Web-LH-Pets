@@ -1,0 +1,13 @@
+C:\Users\letic\OneDrive\Área de Trabalho\Projeto_Web-Lh_Pets\bin\Projeto_Web-Lh_Pets.exe
+C:\Users\letic\OneDrive\Área de Trabalho\Projeto_Web-Lh_Pets\bin\appsettings.Development.json
+C:\Users\letic\OneDrive\Área de Trabalho\Projeto_Web-Lh_Pets\bin\appsettings.json
+C:\Users\letic\OneDrive\Área de Trabalho\Projeto_Web-Lh_Pets\bin\Projeto_Web-Lh_Pets.dll
+C:\Users\letic\OneDrive\Área de Trabalho\Projeto_Web-Lh_Pets\bin\Projeto_Web-Lh_Pets.deps.json
+C:\Users\letic\OneDrive\Área de Trabalho\Projeto_Web-Lh_Pets\bin\Projeto_Web-Lh_Pets.runtimeconfig.json
+C:\Users\letic\OneDrive\Área de Trabalho\Projeto_Web-Lh_Pets\bin\Projeto_Web-Lh_Pets.pdb
+C:\Users\letic\OneDrive\Área de Trabalho\Projeto_Web-Lh_Pets\bin\System.Data.SqlClient.dll
+C:\Users\letic\OneDrive\Área de Trabalho\Projeto_Web-Lh_Pets\bin\runtimes\win-arm64\native\sni.dll
+C:\Users\letic\OneDrive\Área de Trabalho\Projeto_Web-Lh_Pets\bin\runtimes\win-x64\native\sni.dll
+C:\Users\letic\OneDrive\Área de Trabalho\Projeto_Web-Lh_Pets\bin\runtimes\win-x86\native\sni.dll
+C:\Users\letic\OneDrive\Área de Trabalho\Projeto_Web-Lh_Pets\bin\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\letic\OneDrive\Área de Trabalho\Projeto_Web-Lh_Pets\bin\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
